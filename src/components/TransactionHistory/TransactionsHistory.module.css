@@ -1,0 +1,28 @@
+.table {
+  width: 876px;
+  border-collapse: collapse;
+  font-size: 15px;
+  margin: auto;
+  font-family: "Helvetica", "Arial", sans-serif;
+  color: #5c6975;
+  text-transform: capitalize;
+}
+
+.td,
+.th {
+  padding: 5px;
+  width: 292px;
+  height: 52px;
+  text-align: center;
+}
+
+.th {
+  background-color: #00bcd4;
+  font-size: 13px;
+  font-weight: 700;
+  color: #fff;
+}
+
+tr:nth-of-type(odd) {
+  background-color: #ecf2f3;
+}

@@ -1,0 +1,9 @@
+.friends {
+  list-style: none;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding-inline-start: 0px;
+  margin-bottom: 50px;
+}
